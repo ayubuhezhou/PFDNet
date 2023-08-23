@@ -1,2 +1,2 @@
 # PFDNet
-pth
+person ReID based on transformer
